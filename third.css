@@ -1,0 +1,19 @@
+h1{
+    color: cornflowerblue;
+    border: 3px double blue;
+    text-align: center;
+    font-weight: 400px;
+    margin: 30px 200px;
+    background-color: darkcyan;
+}
+body{
+    background-color: aquamarine;
+}
+h3{
+    margin-left: 200px;
+    margin-right: 100px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p{
+    margin-left: 200px;
+}
