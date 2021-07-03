@@ -12,8 +12,17 @@ body{
 h3{
     margin-left: 200px;
     margin-right: 100px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif  ;
 }
 p{
     margin-left: 200px;
+}
+img{
+    width: 200px;
+    border: 6px solid goldenrod;
+    border-radius: 40px;
+    margin: 40px;
+}
+div{
+    text-align: center;
 }
